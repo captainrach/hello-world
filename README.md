@@ -3,3 +3,6 @@
 This is a message
 Text is here
 The End
+Now I have more
+It wasn't the end
+But this is
